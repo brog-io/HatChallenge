@@ -1,0 +1,11 @@
+{
+  "Name": "HatChallenge",
+  "Author": "Brogio",
+  "Version": "1.0.0",
+  "Description": "Adds a collection page for hats in Stardew Valley.",
+  "UniqueID": "Brogio.HatChallenge",
+  "EntryDll": "HatChallenge.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [],
+  "Dependencies": []
+}
